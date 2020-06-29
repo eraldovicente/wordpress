@@ -1,2 +1,2 @@
 # wordpress
-Creando temas e plugins Wordpress - com Local by flywheel
+Criando temas e plugins Wordpress - com Local by flywheel
